@@ -1,2 +1,12 @@
 # repoADS-Project
+
 Presentation for Calgary Data User Group
+
+# website resources
+
+https://docs.microsoft.com/en-us/sql/azure-data-studio/notebooks/notebooks-sql-kernel?view=sql-server-ver15
+https://docs.microsoft.com/en-us/sql/azure-data-studio/notebooks/notebooks-guidance?view=sql-server-ver15
+https://www.sqlshack.com/server-and-database-dashboards-in-azure-data-studio/
+https://www.sqlservercentral.com/articles/an-introduction-to-kusto-query-language-kql#:~:text=Kusto%20Query%20Language%20is%20used%20to%20query%20large,unstructured%20%28free-text%29%20data%20can%20be%20processed%20using%20KQL.
+https://www.mssqltips.com/sqlservertip/5965/customize-azure-data-studio-with-dashboard-widgets/
+https://www.sqlshack.com/server-and-database-dashboards-in-azure-data-studio/
