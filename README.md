@@ -1,8 +1,10 @@
 # repoADS-Project
 
-Presentation for Calgary Data User Group
+Presentation for Calgary Data Meetups
 
 # website resources
+
+https://docs.microsoft.com/en-us/sql/?view=sql-server-ver15
 
 https://docs.microsoft.com/en-us/sql/azure-data-studio/notebooks/notebooks-sql-kernel?view=sql-server-ver15
 https://docs.microsoft.com/en-us/sql/azure-data-studio/notebooks/notebooks-guidance?view=sql-server-ver15
