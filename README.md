@@ -6,6 +6,10 @@ Presentation for Calgary Data Meetups
 
 https://docs.microsoft.com/en-us/sql/?view=sql-server-ver15
 
+
+https://docs.microsoft.com/en-us/sql/azure-data-studio/faq?view=sql-server-ver15
+
+
 https://docs.microsoft.com/en-us/sql/azure-data-studio/notebooks/notebooks-sql-kernel?view=sql-server-ver15
 https://docs.microsoft.com/en-us/sql/azure-data-studio/notebooks/notebooks-guidance?view=sql-server-ver15
 https://www.sqlshack.com/server-and-database-dashboards-in-azure-data-studio/
