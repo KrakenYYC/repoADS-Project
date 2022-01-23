@@ -1,8 +1,14 @@
 # repoADS-Project
 
-Presentation for Calgary Data User Group
+Presentation for Calgary Data Meetups
 
 # website resources
+
+https://docs.microsoft.com/en-us/sql/?view=sql-server-ver15
+https://docs.microsoft.com/en-us/sql/azure-data-studio/faq?view=sql-server-ver15
+
+
+https://docs.microsoft.com/en-us/sql/azure-data-studio/what-is-azure-data-studio?view=sql-server-ver15
 
 https://docs.microsoft.com/en-us/sql/azure-data-studio/notebooks/notebooks-sql-kernel?view=sql-server-ver15
 https://docs.microsoft.com/en-us/sql/azure-data-studio/notebooks/notebooks-guidance?view=sql-server-ver15
@@ -11,3 +17,7 @@ https://www.sqlservercentral.com/articles/an-introduction-to-kusto-query-languag
 https://www.mssqltips.com/sqlservertip/5965/customize-azure-data-studio-with-dashboard-widgets/
 https://www.sqlshack.com/server-and-database-dashboards-in-azure-data-studio/
 https://onnxruntime.ai/docs/#:~:text=ONNX%20Runtime%20is%20an%20accelerator%20for%20machine%20learning,from%20PyTorch%2C%20Tensorflow%2FKeras%2C%20TFLite%2C%20scikit-learn%2C%20and%20other%20frameworks.
+https://www.sqlshack.com/two-ways-to-build-sql-database-projects-in-azure-data-studio/#:~:text=%20Two%20ways%20to%20build%20SQL%20Database%20Projects,create%20a%20database%20project%20from%20a...%20More%20
+
+POWERSHELL
+https://www.powershellgallery.com/

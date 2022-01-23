@@ -2,7 +2,7 @@
 
 # Other extensions can be added by a vsix file (usually from Github)
 
-# and must be imported File -- Install Extention from VSIX Package --
+# and must be imported click File -- Install Extention from VSIX Package --
 
 # browse to the file and press enter
 
