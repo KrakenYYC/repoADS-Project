@@ -1,12 +1,13 @@
 # repoADS-Project
 
 Presentation for Calgary Data Meetups
+Presentation for Women in Data Meetup
+Presentation for YYC M365 User Group Meetup
 
 # website resources
 
 https://docs.microsoft.com/en-us/sql/?view=sql-server-ver15
 https://docs.microsoft.com/en-us/sql/azure-data-studio/faq?view=sql-server-ver15
-
 
 https://docs.microsoft.com/en-us/sql/azure-data-studio/what-is-azure-data-studio?view=sql-server-ver15
 
