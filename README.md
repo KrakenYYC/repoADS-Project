@@ -22,3 +22,5 @@ https://www.sqlshack.com/two-ways-to-build-sql-database-projects-in-azure-data-s
 
 POWERSHELL
 https://www.powershellgallery.com/
+
+https://code.visualstudio.com/blogs/2021/08/05/notebooks
