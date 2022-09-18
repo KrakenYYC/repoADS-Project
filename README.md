@@ -20,7 +20,10 @@ https://www.sqlshack.com/server-and-database-dashboards-in-azure-data-studio/
 https://onnxruntime.ai/docs/#:~:text=ONNX%20Runtime%20is%20an%20accelerator%20for%20machine%20learning,from%20PyTorch%2C%20Tensorflow%2FKeras%2C%20TFLite%2C%20scikit-learn%2C%20and%20other%20frameworks.
 https://www.sqlshack.com/two-ways-to-build-sql-database-projects-in-azure-data-studio/#:~:text=%20Two%20ways%20to%20build%20SQL%20Database%20Projects,create%20a%20database%20project%20from%20a...%20More%20
 
-POWERSHELL
+# POWERSHELL
+
 https://www.powershellgallery.com/
+
+# VISUAL STUDIO
 
 https://code.visualstudio.com/blogs/2021/08/05/notebooks
